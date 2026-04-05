@@ -9,6 +9,6 @@
 
 <h1 > Catapulta </h1>
 
-<p align="left"> Construção da Catapulta Medieval - conceitos implementados; Lei de Hooke, Movimento oblíquo e Energia potencial elástica . </p> 
+<p align="left"> Expo São Judas: 2025/2 - Construção da Catapulta Medieval - conceitos implementados; Lei de Hooke, Movimento oblíquo e Energia potencial elástica . </p> 
 
  ![Catapulta A3](https://github.com/user-attachments/assets/b6357502-7529-41dc-820b-05495de00306)
