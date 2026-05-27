@@ -1,14 +1,67 @@
-<h1 Align = "center" > Trêm Magnético </h1>
+<h1 align="center">📚 Projetos Acadêmicos - Expo São Judas</h1>
 
-<p> Expo São Judas: 2025/1 - Expo USJT construção de um protótipo; Trem Magnético - conceitos implementados, indução magnética, levitação magnética e uso de sensor magnético para ligação do protótipo. </p>
+<div align="center">
 
- 
- <div align="center"  </div><img width="479" height="643" alt="Captura de tela 2026-03-29 231256" src="https://github.com/user-attachments/assets/ef4fb23a-b065-4d49-8c77-5634a6783564" />
- 
-<br clear="both">
+![ENGENHARIA](https://img.shields.io/badge/ENGENHARIA-PROJETOS-purple)
+![UNIVERSIDADE](https://img.shields.io/badge/UNIVERSIDADE-USJT-blue)
+![STATUS](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-orange)
 
-<h1 > Catapulta </h1>
 
-<p align="left"> Expo São Judas: 2025/2 - Construção da Catapulta Medieval - conceitos implementados; Lei de Hooke, Movimento oblíquo e Energia potencial elástica . </p> 
+</div>
 
- ![Catapulta A3](https://github.com/user-attachments/assets/b6357502-7529-41dc-820b-05495de00306)
+---
+
+<h2 align="center">🚄 Trem Magnético - Expo 2025/1 </h2>
+
+<p align="justify">
+Desenvolvimento de um protótipo de Trem Magnético utilizando princípios de eletromagnetismo.
+Os principais conceitos aplicados foram:
+</p>
+
+<div align="center">
+
+🔹 Indução Magnética  
+🔹 Levitação Magnética  
+🔹 Repulsão Magnética 
+
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    width="420"
+    alt="Trem Magnético"
+    src="https://github.com/user-attachments/assets/ef4fb23a-b065-4d49-8c77-5634a6783564"
+  />
+</div>
+
+---
+
+<h2 align="center">🏹 Catapulta Medieval - Expo 2025/2 </h2>
+
+
+<p align="justify">
+Construção de uma Catapulta Medieval funcional para demonstração prática de conceitos de mecânica clássica.
+Os conceitos implementados foram:
+</p>
+
+<div align="center">
+
+🔹 Lei de Hooke  
+🔹 Movimento Oblíquo  
+🔹 Energia Potencial Elástica  
+
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    width="420"
+    alt="Catapulta Medieval"
+    src="https://github.com/user-attachments/assets/b6357502-7529-41dc-820b-05495de00306"
+  />
+</div>
+
+---
