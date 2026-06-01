@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![ENGENHARIA](https://img.shields.io/badge/ENGENHARIA-PROJETOS-purple)
 ![UNIVERSIDADE](https://img.shields.io/badge/UNIVERSIDADE-USJT-blue)
+![ENGENHARIA](https://img.shields.io/badge/ENGENHARIA-PROJETOS-purple)
 ![STATUS](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-orange)
 
 
