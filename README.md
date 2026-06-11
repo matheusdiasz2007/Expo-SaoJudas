@@ -20,9 +20,9 @@ Os principais conceitos aplicados foram:
 
 <div align="center">
 
-🔹 Indução Magnética  
-🔹 Levitação Magnética  
-🔹 Repulsão Magnética 
+🧲⚡ Indução Magnética  
+🧲⬆️ Levitação Magnética  
+🧲↔️ Repulsão Magnética 
 
 </div>
 
@@ -48,9 +48,9 @@ Os conceitos implementados foram:
 
 <div align="center">
 
-🔹 Lei de Hooke  
-🔹 Movimento Oblíquo  
-🔹 Energia Potencial Elástica  
+🪀📏 Lei de Hooke  
+🏀↗️Movimento Oblíquo  
+🪀⚡ Energia Potencial Elástica  
 
 </div>
 
