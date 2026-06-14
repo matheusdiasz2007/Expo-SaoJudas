@@ -3,7 +3,6 @@
 <div align="center">
 
 ![UNIVERSIDADE](https://img.shields.io/badge/UNIVERSIDADE-USJT-blue)
-![ENGENHARIA](https://img.shields.io/badge/ENGENHARIA-PROJETOS-purple)
 ![STATUS](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-orange)
 
 
@@ -11,7 +10,7 @@
 
 ---
 
-<h2 align="center">🚄 Trem Magnético - Expo 2025/1 </h2>
+<h2 align="center">🚄 Trem Magnético - Expo USJT 2025/1 </h2>
 
 <p align="justify">
 Desenvolvimento de um protótipo de Trem Magnético utilizando princípios de eletromagnetismo.
@@ -38,7 +37,7 @@ Os principais conceitos aplicados foram:
 
 ---
 
-<h2 align="center">🏹 Catapulta Medieval - Expo 2025/2 </h2>
+<h2 align="center">🏹 Catapulta Medieval - Expo USJT 2025/2 </h2>
 
 
 <p align="justify">
@@ -65,3 +64,13 @@ Os conceitos implementados foram:
 </div>
 
 ---
+
+<h2 align="center"> Gestão em TI Royal Motors & Sistemas Automatizados Controle de Nível de Agua - Expo USJT 2026/1 </h2>
+
+<div align="center">
+  <img
+    width="420
+    alt="Royal Motors"
+    src="https://github.com/user-attachments/assets/811fa72d-c60d-401c-a0e3-19efa828ed9b"
+  />
+</div>
