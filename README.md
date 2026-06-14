@@ -67,6 +67,19 @@ Os conceitos implementados foram:
 
 <h2 align="center"> Gestão em TI Royal Motors & Sistemas Automatizados Controle de Nível de Agua - Expo USJT 2026/1 </h2>
 
+<p align="justify">
+Construção de uma startup fictícia "Royal Motors"
+Os conceitos implementados foram:
+</p>
+
+<div align="center">
+
+🏢📊 COBIT & ITIL
+🔒🛡️ Cybersegurança ISO 27001
+🗺️💡 Plano Estrategico de TI
+
+</div>
+
 <div align="center">
   <img
     width="420
@@ -74,3 +87,4 @@ Os conceitos implementados foram:
     src="https://github.com/user-attachments/assets/811fa72d-c60d-401c-a0e3-19efa828ed9b"
   />
 </div>
+
