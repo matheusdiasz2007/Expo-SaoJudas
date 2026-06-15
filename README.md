@@ -88,6 +88,8 @@ Construção de uma startup fictícia "Royal Motors" aplicando boas práticas de
 
 </div>
 
+---
+
 - Aplicação em Industria 3.0 Sistema Automatizado de Controle de Nível de Agua usando PLC.
 
 👉 **[Clique aqui para acessar o Projeto no Repositório Especifico.](https://github.com/matheusdiasz2007/SIstemasAutomatizadosUSJT)**
