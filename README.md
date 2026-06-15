@@ -65,26 +65,25 @@ Os conceitos implementados foram:
 
 ---
 
-<h2 align="center"> Gestão em TI Royal Motors & Sistemas Automatizados Controle de Nível de Agua - Expo USJT 2026/1 </h2>
+<h2 align="center"> 📊🤖 Gestão em TI Royal Motors & Sistemas Automatizados Controle de Nível de Agua - Expo USJT 2026/1 </h2>
 
 <p align="justify">
-Construção de uma startup fictícia "Royal Motors"
-Os conceitos implementados foram:
+Construção de uma startup fictícia "Royal Motors" aplicando boas práticas de Gestão em TI. <br>
+- Os conceitos implementados foram: 
 </p>
 
-<div align="center">
+🏢📊 COBIT & ITIL  
+🔒🛡️ Cybersegurança ISO 27001  
+🗺️💡 Plano Estratégico de TI 
 
-🏢📊 COBIT & ITIL
-🔒🛡️ Cybersegurança ISO 27001
-🗺️💡 Plano Estrategico de TI
+ <img width="600" height="400" alt="Logo dourado da Royal Motors" src="https://github.com/user-attachments/assets/609f12fc-0867-4716-921a-83bbe7533c2d" />
 
-</div>
+<br><br>
 
-<div align="center">
-  <img
-    width="420
-    alt="Royal Motors"
-    src="https://github.com/user-attachments/assets/811fa72d-c60d-401c-a0e3-19efa828ed9b"
-  />
-</div>
+- Aplicação em Industria 3.0 Sistema Automatizado de Controle de Nível de Agua usando PLC.
 
+👉 **[Clique aqui para acessar o Projeto no Repositório Especifico.](https://github.com/matheusdiasz2007/SIstemasAutomatizadosUSJT)**
+
+<img width="823" height="576" alt="image" src="https://github.com/user-attachments/assets/0d852551-be98-46e0-ba16-5a025946cc38" />
+
+---
