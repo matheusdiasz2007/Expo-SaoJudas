@@ -72,11 +72,21 @@ Construção de uma startup fictícia "Royal Motors" aplicando boas práticas de
 - Os conceitos implementados foram: 
 </p>
 
+<div align="center">
+
 🏢📊 COBIT & ITIL  
 🔒🛡️ Cybersegurança ISO 27001  
 🗺️💡 Plano Estratégico de TI 
 
+</div>
+
+<br>
+
+<div align="center">
+
  <img width="600" height="400" alt="Logo dourado da Royal Motors" src="https://github.com/user-attachments/assets/609f12fc-0867-4716-921a-83bbe7533c2d" />
+
+</div>
 
 <br><br>
 
@@ -84,6 +94,10 @@ Construção de uma startup fictícia "Royal Motors" aplicando boas práticas de
 
 👉 **[Clique aqui para acessar o Projeto no Repositório Especifico.](https://github.com/matheusdiasz2007/SIstemasAutomatizadosUSJT)**
 
+<div align="center">
+
 <img width="823" height="576" alt="image" src="https://github.com/user-attachments/assets/0d852551-be98-46e0-ba16-5a025946cc38" />
+
+</div>
 
 ---
