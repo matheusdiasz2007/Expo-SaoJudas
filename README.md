@@ -5,8 +5,13 @@
 ![UNIVERSIDADE](https://img.shields.io/badge/UNIVERSIDADE-USJT-blue)
 ![STATUS](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-orange)
 
+English version available: [EN](README.en.md)
+
 
 </div>
+
+
+
 
 ---
 
