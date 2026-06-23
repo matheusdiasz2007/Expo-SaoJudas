@@ -1,6 +1,7 @@
 <p align="center">
 <img width="200" height="200" alt="logo_universidade-sao-judas-tadeu_AKjuLW" src="https://github.com/user-attachments/assets/4bd90c97-76d7-4b4e-8bbc-70561b8e0e6a" />
 </p>
+
 <div align="center">
 
 ![UNIVERSIDADE](https://img.shields.io/badge/UNIVERSIDADE-USJT-blue)
